@@ -12,7 +12,7 @@ The [service layer](https://github.com/glibersat/brewpiweb/tree/develop), writte
 
 On top of that, by using the REST API of the service layer, a Web UI will be built in React (we're looking for more people here, feel free to join!).
 
-### Setting up a developpement environnement
+### Setting up a development environment
 
 #### BrewPi emulator
 
